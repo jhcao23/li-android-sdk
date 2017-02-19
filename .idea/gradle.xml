@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="/touchmars/workspace/spring-social/li-android-sdk" />
+            <option value="/touchmars/workspace/spring-social/li-android-sdk/linkedin-sdk" />
+            <option value="/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp" />
+            <option value="/touchmars/workspace/spring-social/li-android-sdk/samples/sampleapp" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

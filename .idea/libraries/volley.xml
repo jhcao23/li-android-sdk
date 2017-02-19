@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="volley">
+    <CLASSES>
+      <root url="jar:///touchmars/workspace/spring-social/li-android-sdk/linkedin-sdk/libs/volley.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

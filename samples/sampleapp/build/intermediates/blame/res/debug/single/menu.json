@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/sampleapp/build/intermediates/res/merged/debug/menu/deeplink.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/sampleapp/src/main/res/menu/deeplink.xml"
+    },
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/sampleapp/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/sampleapp/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/sampleapp/build/intermediates/res/merged/debug/menu/api.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/sampleapp/src/main/res/menu/api.xml"
+    }
+]

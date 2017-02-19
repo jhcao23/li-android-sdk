@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/eventsapp.iml" filepath="/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/eventsapp.iml" />
+      <module fileurl="file:///touchmars/workspace/spring-social/li-android-sdk/li-android-sdk.iml" filepath="/touchmars/workspace/spring-social/li-android-sdk/li-android-sdk.iml" />
+      <module fileurl="file:///touchmars/workspace/spring-social/li-android-sdk/linkedin-sdk/linkedin-sdk.iml" filepath="/touchmars/workspace/spring-social/li-android-sdk/linkedin-sdk/linkedin-sdk.iml" />
+      <module fileurl="file:///touchmars/workspace/spring-social/li-android-sdk/samples/sampleapp/sampleapp.iml" filepath="/touchmars/workspace/spring-social/li-android-sdk/samples/sampleapp/sampleapp.iml" />
+    </modules>
+  </component>
+</project>

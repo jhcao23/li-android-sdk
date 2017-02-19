@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/res/merged/debug/layout/attendee_list_item.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/src/main/res/layout/attendee_list_item.xml"
+    },
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/res/merged/debug/layout/layout_action_bar.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/src/main/res/layout/layout_action_bar.xml"
+    },
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/res/merged/debug/layout/abc_action_bar_tabbar.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_include.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_include.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/res/merged/debug/layout/layout_view_on_linkedin.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/src/main/res/layout/layout_view_on_linkedin.xml"
+    },
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/res/merged/debug/layout/activity_profile.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/src/main/res/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/res/merged/debug/layout/abc_action_bar_home.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_home.xml"
+    },
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/res/merged/debug/layout/layout_event_fragment.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/src/main/res/layout/layout_event_fragment.xml"
+    },
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_overlay.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/res/merged/debug/layout/layout_linkedin_login.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/src/main/res/layout/layout_linkedin_login.xml"
+    },
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/res/merged/debug/layout/abc_action_bar_tab.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/touchmars/workspace/spring-social/li-android-sdk/samples/eventsapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_mode_bar.xml"
+    }
+]
