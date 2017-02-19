@@ -3,6 +3,8 @@
 .settings/
 .DS_Store
 .idea/
+.idea/**
+/.idea
 .gradle/
 .springBeans
 *.iml
